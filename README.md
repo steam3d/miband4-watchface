@@ -2,9 +2,10 @@
 Здесь собраны циферблаты для mi band 4.
 
 # default-Ricardo-Milos
-Стоковый циферблат с Ricardo Milos. Вырезан процент и иконка ткущего заряда, иконка шагов.
+Стоковый циферблат с Ricardo Milos. Вырезан процент и иконка текущего заряда, иконка шагов.
 
-При низком заряда акумулятора будет уведомление ввиде иконки.
+При низком заряда аккумулятора будет уведомление в виде иконки.
+Основной функционал сохранен.
 
 ![](https://github.com/steam3d/miband4-watchface/blob/master/media/default-Ricardo-Milos_packed_animated.gif)
 ![Image alt](https://github.com/steam3d/miband4-watchface/blob/master/media/default-Ricardo-Milos_packed_static.png)
