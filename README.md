@@ -6,6 +6,9 @@
 
 [![](https://github.com/steam3d/miband4-watchface/blob/master/media/default-Ricardo-Milos_packed_animated.gif)](https://github.com/steam3d/miband4-watchface/raw/master/default-Ricardo-Milos/default-Ricardo-Milos_packed.bin)
 [![](https://github.com/steam3d/miband4-watchface/blob/master/media/oslo-small_packed_animated.gif)](https://github.com/steam3d/miband4-watchface/raw/master/oslo-small/oslo-small_packed.bin)
+[![](https://github.com/steam3d/miband4-watchface/blob/master/media/geometriс_packed_animated.gif)](https://github.com/steam3d/miband4-watchface/raw/master/geometric/geometric.bin)
+
+
 
 # Описание
 ## Ricardo Milos
@@ -18,3 +21,9 @@
 Правая зеленая точка - режим не беспокоить
 Центральный зеленый круг - график шагов
 Центральный белый круг - заряд батареи
+
+## Geometric
+Квадрат - блютус
+Круг - батарея
+Треугольник - режим не беспокоить
+Мастер кард - блокировка
